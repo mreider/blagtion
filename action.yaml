@@ -1,4 +1,5 @@
-name: Deploy Blag site to Pages
+name: Blag to Github Pages
+description: A simple action to publish a Blag site to Github Pages
 on:
   push:
     branches: ["main"]
